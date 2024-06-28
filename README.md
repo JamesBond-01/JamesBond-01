@@ -1,14 +1,9 @@
-# Welcome to 007's GitHub profile 😎
-**Backend Developer Jr. 💻**
+<h1 align="center">Welcome to 007's GitHub profile 😎</h1> 
+<h3 align="center">Backend Developer 💻 (and secret agent)</h3>
+
 ## About Me 🙋‍♂️
-My name is Leandro and I'm 22 years old. Born in Rosario, Argentina, I'm studying System Analyst at UNR.\
-Altough I'm still learning the basics, I feel really passionate about this world. What I like the most is the fact that you can create anything you want, specially products that make peoples lives easier. Isn't that amazing?! And talking about things that I love, I'm a big fan of James Bond movies, specially the ones starred by Sean Connery, hence my nickname. 😅
+My name is Leandro and I'm 23 years old. Born in Rosario, Argentina, I'm studying System Analyst at UNR.
 ## Skills and Knowledge 📚
-I have learnt a wide range of languages through the career, altough I feel confident working as a backend developer. Some of the languages I know are:
-- Java
-- SQL
-- C / C++
-- Haskell
-- Assembly MIPS R2000
-## Other strengths 😄
-It is widely known that behind marvellous products there are fantastic teams. In my opinion, soft skills between teammates are essential to achieve great results. Therefore, I consider extremely important to recognise that I'm responsible with my tasks and respectful with my teammates. What is more, I'm always keen to learn from others and to grow up as a professional.
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white) ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)
+## Social Networks 🌐
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/leandro-gomez007) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/lean.gomez1/)
